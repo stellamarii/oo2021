@@ -1,1 +1,24 @@
-Tunnis ette võetud teemal viimistletud omapoolne rakendus.
+Vahend loogikalülituste elektriskeemi kokkupanekuks
+
+Versioon1
+Liidesed:
+  Voolujuht   meetod: boolean kasJuhib()
+  Lylitatav   meetod: void seisund(boolean sees)
+Klassid:
+  Sisend implements Lylitatav
+     void lisa(Lylitatav l);
+     void seisund(boolean sees)
+  Lyliti implements Lylitatav, Voolujuht
+  Hulgiyhendus implements Voolujuht
+    Roopyhendus
+    Jadayhendus
+    
+Looge liidesed ja klassid. Tekitage kahe lülitiga rööpühendus. 
+Katsetage, et ühendus juhiks vaid siis, kui vähemalt üks lüliti on sees
+
+9:21
+
+Lisage Jadayhenduse klass
+Koostage vooluahel vastavalt joonisele 1
+
+10:45
