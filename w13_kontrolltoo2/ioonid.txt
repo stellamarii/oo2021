@@ -1,0 +1,8 @@
+Vesinik, 1, +1
+Kaalium, 39, +1
+Naatrium, 23, +1
+Alumiinium, 27, +3
+oksiid, 16, -2
+fluoriid, 19, -1
+hüdroksiid, 17, -1
+nitraat, 62, -1
